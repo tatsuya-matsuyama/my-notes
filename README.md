@@ -31,5 +31,6 @@ The repository includes:
 
 ## Disclaimer　注意事項
 This repository is primarily for personal use, but feel free to browse and refer to the content. Note that some information might be incomplete or specific to my use case.
+
 このリポジトリは主に個人利用を目的としていますが、内容をご覧いただいて構いません。一部の情報は不完全であったり、特定の用途に限られている場合がありますのでご了承ください。
 
